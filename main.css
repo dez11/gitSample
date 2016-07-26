@@ -4,7 +4,7 @@
     content: ".";
     display: block;
     clear: both;
-    height: 0;
+    height: 10;
     visibility: hidden;
   }
 }
